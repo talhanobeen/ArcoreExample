@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992013503679",
+    "project_id": "arflutter-87448",
+    "storage_bucket": "arflutter-87448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992013503679:android:43052d47b48a6640e18a0a",
+        "android_client_info": {
+          "package_name": "io.carius.lars.ar_flutter_plugin_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992013503679-phn7mrb2agaf0kj2nvvvs3512jpqib47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkzJ0QoNWszWoWTlGCOc9aIFAfRH3lBfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992013503679-ei3vs9ffqf7plci462qbg3fjgihgceoc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
